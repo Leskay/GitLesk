@@ -68,6 +68,7 @@
     height: 250px;
     overflow-y: scroll;
     text-align: justify;
+    padding: 10px;
 }
 
 /* Page */
@@ -101,9 +102,18 @@
 }
 
 /* Couleur groupe de partipants */
-.groupebleu {
-    color: #006666;
+.groupechasseur {
+    color: #3e7b61;
 }
-.grouperouge {
-    color: #af1919;
+.groupevampire {
+    color: #a52715;
+}
+.groupeloupgarou {
+    color: #4e6b94;
+}
+.groupesorcier{
+    color: #876e8a;
+}
+.groupehumain{
+    color: #889ba7;
 }
