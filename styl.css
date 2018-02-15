@@ -21,7 +21,7 @@
     box-shadow: inset 0 0 8px 3px #;
     color: #472B5C;
     filter: alpha(opacity=90);
-    font-family: gothica;
+    font-family: 'gothica';
     font-size: 22px;
     font-weight: 400;
     margin-top: -35px;
@@ -48,7 +48,7 @@
 /* Groupe */
 .green {
     color: #8A0C0C;
-    font-family: gothica;
+    font-family: 'gothica';
     font-size: 24px;
     text-align: center;
 }
@@ -56,7 +56,7 @@
 /* Phrase pour les groupes */
 .red2 {
     color: #4d4d4d;
-    font-family: gothica;
+    font-family: 'gothica';
     font-size: 13px;
     font-weight: 600;
     padding: 15px;
@@ -79,7 +79,7 @@
     box-shadow: 0 0 3px 3px #;
     color: #7D7979;
     filter: alpha(opacity=80);
-    font-family: gothica;
+    font-family: 'gothica';
     font-size: 13px;
     line-height: 100%;
     margin-left: 10px;
