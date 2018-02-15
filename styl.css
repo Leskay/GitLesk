@@ -93,6 +93,7 @@
 /* Flèche gauche */
 #flechetournee {
     transform: scaleX(-1);
+    background-color: none; 
 }
 
 /* Navigation sous les écrits */
