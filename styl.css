@@ -8,6 +8,7 @@ box-shadow: inset 0 0 4px 2px #1a1a1a;
 margin-left: 30px;
 margin-top: 20px;
 padding-top: 70px;
+padding-bottom: 70px;
 width: 535px;
 }
 
@@ -28,7 +29,7 @@ width: 535px;
     font-weight: bold;
     margin-top: -35px;
     opacity: .9;
-    padding-bottom: 13px;
+    padding-bottom: 20px;
     padding-top: 10px;
     text-align: center;
     text-shadow: 2px 2px 2px #000;
