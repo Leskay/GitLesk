@@ -1,6 +1,6 @@
 /* l'image de fond */
 .fondpv {
-    background-image: url(https://zupimages.net/up/18/07/5030.jpg);
+    background-image: url(https://www.zupimages.net/up/18/07/0d37.png);
     background-repeat: repeat;
     border-radius: 5px;
     box-shadow: 0 0 2px 2px #;
@@ -13,7 +13,8 @@
 
 /* Typo haut */
 .prenomnom2 {
-    background-color: #000;
+    background-image: url(https://www.zupimages.net/up/18/07/5030.jpg);
+    background-repeat: repeat;
     border: 2px solid #;
     border-bottom: 1px #090909 dashed;
     border-radius: 0;
@@ -74,7 +75,8 @@
 
 /* Page */
 .commentaires2 {
-    background-color: #000;
+    background-image: url(https://www.zupimages.net/up/18/07/5030.jpg);
+    background-repeat: repeat;
     border: 1px solid #090909;
     border-radius: 5px;
     box-shadow: 0 0 3px 3px #;
@@ -117,19 +119,19 @@
 
 /* Couleur groupe de partipants */
 .groupechasseur {
-    color: #3e7b61;
+    color: #687853;
 }
 .groupevampire {
-    color: #a52715;
+    color: #803b28;
 }
 .groupeloupgarou {
-    color: #4e6b94;
+    color: #688a94;
 }
 .groupesorcier{
-    color: #876e8a;
+    color: #5c4f67;
 }
 .groupehumain{
-    color: #889ba7;
+    color: #916335;
 }
 .boldwhite{
     font-weight: bold;
