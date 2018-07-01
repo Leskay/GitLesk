@@ -1,6 +1,6 @@
 /* l'image de fond */
 .fondpv {
-    background-color: #212121;
+    background-color: #080808;
 background-image: url(https://nsa39.casimages.com/img/2018/07/01/180701035030304058.png);
 background-repeat: no-repeat;
 border-radius: 5px;
@@ -21,7 +21,7 @@ width: 535px;
     border-radius: 0;
     border-top: 1px #090909 dashed;
     box-shadow: inset 0 0 8px 3px #;
-    color: #B0A989;
+    color: #5b4e5f;
     filter: alpha(opacity=90);
     font-family: 'Unica One', cursive;
     font-size: 22px;
@@ -38,7 +38,7 @@ width: 535px;
 /* La phrase d'accroche sous le titre */
 .feat2 {
     border-radius: 0;
-    color: #5f825b;
+    color: #528177;
     filter: alpha(opacity=90);
     font-size: 11px;
     font-variant: small-caps;
